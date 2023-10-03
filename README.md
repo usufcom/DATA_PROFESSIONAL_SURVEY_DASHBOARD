@@ -1,6 +1,6 @@
 # DATA_PROFESSIONAL_SURVEY_DASHBOARD
 
-####DATA PROFESSIONAL SURVEY DASHBOARD with Power BI
+#### DATA PROFESSIONAL SURVEY DASHBOARD with Power BI
 
 - I performed data analysis on data professional survey dataset. 
 - I grouped participants in terms of Country, industry, Sex, favorite programming language and more
